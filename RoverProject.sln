@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mr-tech-test-master", "mr-tech-test-master\mr-tech-test-master.csproj", "{7BA9943B-9462-469C-93B8-A695350FF6FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rover", "rover\Rover.csproj", "{7BA9943B-9462-469C-93B8-A695350FF6FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
