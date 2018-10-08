@@ -1,0 +1,6 @@
+C:\Users\Usuario\RiderProjects\RoverProject\rover\bin\Debug\mr_tech_test_master.exe
+C:\Users\Usuario\RiderProjects\RoverProject\rover\bin\Debug\mr_tech_test_master.pdb
+C:\Users\Usuario\RiderProjects\RoverProject\rover\obj\Debug\Rover.csprojAssemblyReference.cache
+C:\Users\Usuario\RiderProjects\RoverProject\rover\obj\Debug\Rover.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\RoverProject\rover\obj\Debug\mr_tech_test_master.exe
+C:\Users\Usuario\RiderProjects\RoverProject\rover\obj\Debug\mr_tech_test_master.pdb
