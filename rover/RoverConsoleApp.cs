@@ -4,7 +4,7 @@ using TechTest;
 
 namespace Rover
 {
-    public class RoverConsoleApp
+    class RoverConsoleApp
     {
         public static void Main()
         {

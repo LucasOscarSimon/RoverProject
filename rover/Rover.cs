@@ -13,6 +13,7 @@
 
         public void Move(Commands command)
         {
+            //Should we include a guard clause?
             _positionInfo.CalculateNewPosition(command, _position);
         }
     }

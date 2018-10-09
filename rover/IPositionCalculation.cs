@@ -2,6 +2,6 @@
 {
     internal interface IPositionCalculation
     {
-        Position CalculateNewPosition(Position actualPosition);
+        void CalculateNewPosition(Position actualPosition);
     }
 }

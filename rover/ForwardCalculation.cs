@@ -4,7 +4,7 @@ namespace TechTest
 {
     public class ForwardCalculation : IPositionCalculation
     {
-        public Position CalculateNewPosition(Position actualPosition)
+        public void CalculateNewPosition(Position actualPosition)
         {
             switch (actualPosition.Facing)
             {
@@ -22,7 +22,6 @@ namespace TechTest
                     break;
             }
             Console.WriteLine($"Rover is now at {actualPosition.Coordinates.X}, {actualPosition.Coordinates.Y} - facing {actualPosition.Facing}");
-            return actualPosition;
         }
     }
 }

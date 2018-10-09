@@ -1,0 +1,11 @@
+/home/lucas/Developments/projects/RoverProject/RoverTests/bin/Debug/nunit.framework.dll
+/home/lucas/Developments/projects/RoverProject/RoverTests/bin/Debug/nunit.framework.xml
+/home/lucas/Developments/projects/RoverProject/RoverTests/obj/Debug/RoverTests.csprojAssemblyReference.cache
+/home/lucas/Developments/projects/RoverProject/RoverTests/obj/Debug/RoverTests.csproj.CoreCompileInputs.cache
+/home/lucas/Developments/projects/RoverProject/RoverTests/obj/Debug/RoverTests.csproj.CopyComplete
+/home/lucas/Developments/projects/RoverProject/RoverTests/bin/Debug/Rover.UnitTests.dll
+/home/lucas/Developments/projects/RoverProject/RoverTests/bin/Debug/Rover.UnitTests.pdb
+/home/lucas/Developments/projects/RoverProject/RoverTests/obj/Debug/Rover.UnitTests.dll
+/home/lucas/Developments/projects/RoverProject/RoverTests/obj/Debug/Rover.UnitTests.pdb
+/home/lucas/Developments/projects/RoverProject/RoverTests/bin/Debug/mr_tech_test_master.exe
+/home/lucas/Developments/projects/RoverProject/RoverTests/bin/Debug/mr_tech_test_master.pdb

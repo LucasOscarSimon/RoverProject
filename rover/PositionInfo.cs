@@ -16,9 +16,9 @@ namespace TechTest
             };
         }
 
-        public Position CalculateNewPosition(Commands command, Position position)
+        public void CalculateNewPosition(Commands command, Position position)
         {
-            return PositionCalculation[command].CalculateNewPosition(position);
+            PositionCalculation[command].CalculateNewPosition(position);
         }
     }
 }
